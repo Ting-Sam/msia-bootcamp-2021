@@ -2,5 +2,6 @@
 
 A collection of activities from MSiA Bootcamp 2021
 
-## Git\n
-## GitHub\n
+## Shell
+## Git
+## GitHub
